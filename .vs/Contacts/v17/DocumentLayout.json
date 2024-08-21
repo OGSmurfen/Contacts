@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c#\\learning\\ContactsSolution\\Contacts\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C8692F73-0A57-4F7D-A857-56EA7807FFE8}|ContactsAPI\\ContactsAPI.csproj|d:\\c#\\learning\\contactssolution\\contacts\\contactsapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8692F73-0A57-4F7D-A857-56EA7807FFE8}|ContactsAPI\\ContactsAPI.csproj|solutionrelative:contactsapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8692F73-0A57-4F7D-A857-56EA7807FFE8}|ContactsAPI\\ContactsAPI.csproj|d:\\c#\\learning\\contactssolution\\contacts\\contactsapi\\data\\contactsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8692F73-0A57-4F7D-A857-56EA7807FFE8}|ContactsAPI\\ContactsAPI.csproj|solutionrelative:contactsapi\\data\\contactsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8692F73-0A57-4F7D-A857-56EA7807FFE8}|ContactsAPI\\ContactsAPI.csproj|d:\\c#\\learning\\contactssolution\\contacts\\contactsapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C8692F73-0A57-4F7D-A857-56EA7807FFE8}|ContactsAPI\\ContactsAPI.csproj|solutionrelative:contactsapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\c#\\learning\\ContactsSolution\\Contacts\\ContactsAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "ContactsAPI\\appsettings.json",
+              "ToolTip": "D:\\c#\\learning\\ContactsSolution\\Contacts\\ContactsAPI\\appsettings.json",
+              "RelativeToolTip": "ContactsAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-21T14:28:26.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\c#\\learning\\ContactsSolution\\Contacts\\ContactsAPI\\Program.cs",
+              "RelativeDocumentMoniker": "ContactsAPI\\Program.cs",
+              "ToolTip": "D:\\c#\\learning\\ContactsSolution\\Contacts\\ContactsAPI\\Program.cs",
+              "RelativeToolTip": "ContactsAPI\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAQwA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T14:26:52.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContactsDbContext.cs",
+              "DocumentMoniker": "D:\\c#\\learning\\ContactsSolution\\Contacts\\ContactsAPI\\Data\\ContactsDbContext.cs",
+              "RelativeDocumentMoniker": "ContactsAPI\\Data\\ContactsDbContext.cs",
+              "ToolTip": "D:\\c#\\learning\\ContactsSolution\\Contacts\\ContactsAPI\\Data\\ContactsDbContext.cs",
+              "RelativeToolTip": "ContactsAPI\\Data\\ContactsDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T13:59:42.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
