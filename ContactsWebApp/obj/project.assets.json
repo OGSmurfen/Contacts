@@ -8206,7 +8206,8 @@
   },
   "projectFileDependencyGroups": {
     "net8.0": [
-      "ContactsAPI >= 1.0.0"
+      "ContactsAPI >= 1.0.0",
+      "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 8.0.4"
     ]
   },
   "packageFolders": {
@@ -8257,6 +8258,12 @@
     "frameworks": {
       "net8.0": {
         "targetAlias": "net8.0",
+        "dependencies": {
+          "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+            "target": "Package",
+            "version": "[8.0.4, )"
+          }
+        },
         "imports": [
           "net461",
           "net462",

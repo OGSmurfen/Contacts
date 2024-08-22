@@ -3,16 +3,8 @@
   "WorkspaceRootPath": "D:\\c#\\learning\\ContactsSolution\\Contacts\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7A0ADF42-C5C5-4342-8FE4-BFBB2459CB8C}|ContactsWebApp\\ContactsWebApp.csproj|d:\\c#\\learning\\contactssolution\\contacts\\contactswebapp\\models\\contactsvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7A0ADF42-C5C5-4342-8FE4-BFBB2459CB8C}|ContactsWebApp\\ContactsWebApp.csproj|solutionrelative:contactswebapp\\models\\contactsvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C8692F73-0A57-4F7D-A857-56EA7807FFE8}|ContactsAPI\\ContactsAPI.csproj|d:\\c#\\learning\\contactssolution\\contacts\\contactsapi\\models\\contactsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8692F73-0A57-4F7D-A857-56EA7807FFE8}|ContactsAPI\\ContactsAPI.csproj|solutionrelative:contactsapi\\models\\contactsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7A0ADF42-C5C5-4342-8FE4-BFBB2459CB8C}|ContactsWebApp\\ContactsWebApp.csproj|d:\\c#\\learning\\contactssolution\\contacts\\contactswebapp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7A0ADF42-C5C5-4342-8FE4-BFBB2459CB8C}|ContactsWebApp\\ContactsWebApp.csproj|solutionrelative:contactswebapp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7A0ADF42-C5C5-4342-8FE4-BFBB2459CB8C}|ContactsWebApp\\ContactsWebApp.csproj|d:\\c#\\learning\\contactssolution\\contacts\\contactswebapp\\controllers\\contactscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A0ADF42-C5C5-4342-8FE4-BFBB2459CB8C}|ContactsWebApp\\ContactsWebApp.csproj|solutionrelative:contactswebapp\\controllers\\contactscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,41 +22,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ContactsModel.cs",
-              "DocumentMoniker": "D:\\c#\\learning\\ContactsSolution\\Contacts\\ContactsAPI\\Models\\ContactsModel.cs",
-              "RelativeDocumentMoniker": "ContactsAPI\\Models\\ContactsModel.cs",
-              "ToolTip": "D:\\c#\\learning\\ContactsSolution\\Contacts\\ContactsAPI\\Models\\ContactsModel.cs",
-              "RelativeToolTip": "ContactsAPI\\Models\\ContactsModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA4AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-22T11:21:50.656Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ContactsVM.cs",
-              "DocumentMoniker": "D:\\c#\\learning\\ContactsSolution\\Contacts\\ContactsWebApp\\Models\\ContactsVM.cs",
-              "RelativeDocumentMoniker": "ContactsWebApp\\Models\\ContactsVM.cs",
-              "ToolTip": "D:\\c#\\learning\\ContactsSolution\\Contacts\\ContactsWebApp\\Models\\ContactsVM.cs",
-              "RelativeToolTip": "ContactsWebApp\\Models\\ContactsVM.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAIAAAA",
+              "Title": "ContactsController.cs",
+              "DocumentMoniker": "D:\\c#\\learning\\ContactsSolution\\Contacts\\ContactsWebApp\\Controllers\\ContactsController.cs",
+              "RelativeDocumentMoniker": "ContactsWebApp\\Controllers\\ContactsController.cs",
+              "ToolTip": "D:\\c#\\learning\\ContactsSolution\\Contacts\\ContactsWebApp\\Controllers\\ContactsController.cs",
+              "RelativeToolTip": "ContactsWebApp\\Controllers\\ContactsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-22T11:21:46.691Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "D:\\c#\\learning\\ContactsSolution\\Contacts\\ContactsWebApp\\Models\\ErrorViewModel.cs",
-              "RelativeDocumentMoniker": "ContactsWebApp\\Models\\ErrorViewModel.cs",
-              "ToolTip": "D:\\c#\\learning\\ContactsSolution\\Contacts\\ContactsWebApp\\Models\\ErrorViewModel.cs",
-              "RelativeToolTip": "ContactsWebApp\\Models\\ErrorViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-22T11:16:16.513Z",
+              "WhenOpened": "2024-08-22T11:51:55.396Z",
               "EditorCaption": ""
             }
           ]

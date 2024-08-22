@@ -1,11 +1,23 @@
 {
   "Version": 1,
-  "Hash": "lcaUj0bVw6g8QdUXeWhQxyd0q5rA3NDM/9+P+hsE1L8=",
+  "Hash": "fQstppDCMWytF4LnouZVd1CaixmnQAtqthmOTDm698k=",
   "Source": "ContactsWebApp",
   "BasePath": "_content/ContactsWebApp",
   "Mode": "Default",
   "ManifestType": "Build",
-  "ReferencedProjectsConfiguration": [],
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "D:\\c#\\learning\\ContactsSolution\\Contacts\\ContactsAPI\\ContactsAPI.csproj",
+      "Version": 2,
+      "Source": "ContactsAPI",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
   "DiscoveryPatterns": [
     {
       "Name": "ContactsWebApp\\wwwroot",
