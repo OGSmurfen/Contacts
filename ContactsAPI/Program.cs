@@ -1,4 +1,6 @@
 using ContactsAPI.Data;
+using ContactsAPI.Repository.IRepository;
+using ContactsAPI.Repository.RepositoryImpl;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -12,7 +14,7 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddDbContext<ContactsDbContext>(opt => opt.UseSqlServer(builder.Configuration.GetConnectionString("ContactsDB")));
 
 
-
+builder.Services.AddScoped<IContactsRepository, ContactsReposiotry>();
 
 
 

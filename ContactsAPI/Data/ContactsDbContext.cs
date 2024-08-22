@@ -5,7 +5,7 @@ namespace ContactsAPI.Data
 {
     public class ContactsDbContext : DbContext
     {
-        public DbSet<Contacts> Contacts { get; set; }
+        public DbSet<ContactsModel> Contacts { get; set; }
 
 
 
